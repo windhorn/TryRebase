@@ -1,3 +1,5 @@
 masterブランチです.
 
 masterブランチです.Part2
+
+issue2ブランチです．
